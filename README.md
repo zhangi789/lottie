@@ -1,4 +1,4 @@
-	## Lottile
+# Lottile
 Lottie是Android的一个移动库，它可以解析Adobe After Effects动画导出为json格式并在移动端呈现!
 
 
