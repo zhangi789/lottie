@@ -1,7 +1,11 @@
+
 # Lottile
-Lottie是Android的一个移动库，它可以解析Adobe After Effects动画导出为json格式并在移动端呈现!
+Lottie是Android的一个移动库，它可以解析Adobe After Effects动画导出为json格式并在移动端呈现!。其主要特性有：
 
-
+1. AS>=3.1.2 
+2. Lottie原框架基于androidx开发,提取修改成通用方式
+3. 使用方式和implementation 'com.airbnb.android:lottie:$lottieVersion' 一致
+4. [动画展示](https://github.com/airbnb/lottie-android) -动画展示 </br>
 
 ## 集成AS   版本>=3.1.2 
 
